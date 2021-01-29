@@ -3,15 +3,16 @@
 This case study is based on a Kaggle dataset - https://www.kaggle.com/c/aptos2019-blindness-detection/
 
 APTOS2019 kaggle dataset contains:
-â€¢	train.csv - the training labels
 
-â€¢	test.csv - the test set (you must predict the diagnosis value for these variables)
+train.csv - the training labels
 
-â€¢	sample_submission.csv - a sample submission file in the correct format
+test.csv - the test set (you must predict the diagnosis value for these variables)
 
-â€¢	train.zip - the training set images
+sample_submission.csv - a sample submission file in the correct format
 
-â€¢	test.zip - the public test set images
+train.zip - the training set images
+
+test.zip - the public test set images
 
 Contents of the Code Files are given below :-
 
