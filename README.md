@@ -4,9 +4,13 @@ This case study is based on a Kaggle dataset - https://www.kaggle.com/c/aptos201
 
 APTOS2019 kaggle dataset contains:
 •	train.csv - the training labels
+
 •	test.csv - the test set (you must predict the diagnosis value for these variables)
+
 •	sample_submission.csv - a sample submission file in the correct format
+
 •	train.zip - the training set images
+
 •	test.zip - the public test set images
 
 Contents of the Code Files are given below :-
